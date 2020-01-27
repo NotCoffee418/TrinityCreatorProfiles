@@ -3,7 +3,7 @@
   "EmulatorName": "TrinityCore",
   "GameVersion": "3.3.5a",
   "DatabaseVersion": "TDB 335a 2020-01-15",
-  "Revision": 1,
+  "Revision": 2,
   "Author": "NotCoffee418",
   "UpdateUrl": null,
   "Creature": {
@@ -25,7 +25,7 @@
       "Rank": "rank",
       "DmgSchool": "dmgschool",
       "BaseAttackTime": "BaseAttackTime",
-      "RangeAttackTime": "BaseAttackTime",
+      "RangeAttackTime": "RangeAttackTime",
       "UnitClass": "unit_class",
       "UnitFlags": "unit_flags",
       "UnitFlags2": "unit_flags2",
