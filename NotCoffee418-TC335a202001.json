@@ -186,6 +186,7 @@
       "Quote": "description",
       "Class": "class",
       "ItemSubClass": "subclass",
+	  "Material": "Material",
       "Quality": "Quality",
       "DisplayId": "displayid",
       "Binds": "bonding",
