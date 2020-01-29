@@ -3,7 +3,7 @@
   "EmulatorName": "TrinityCore",
   "GameVersion": "3.3.5a",
   "DatabaseVersion": "TDB 335a 2020-01-15",
-  "Revision": 4,
+  "Revision": 5,
   "Author": "NotCoffee418",
   "UpdateUrl": null,
   "Creature": {
@@ -196,6 +196,7 @@
       "ValueBuy": "BuyPrice",
       "ValueSell": "SellPrice",
       "InventoryType": "InventoryType",
+	  "Sheath": "sheath",
       "Flags": "Flags",
       "FlagsExtra": "FlagsExtra",
       "BuyCount": "BuyCount",
