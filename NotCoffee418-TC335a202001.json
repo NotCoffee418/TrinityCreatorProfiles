@@ -6,6 +6,7 @@
   "Revision": 9,
   "Author": "NotCoffee418",
   "UpdateUrl": null,
+  "TestedBuild": 110,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
