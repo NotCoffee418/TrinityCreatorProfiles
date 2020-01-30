@@ -61,6 +61,12 @@
       "ResistanceSchool": "School",
       "ResistanceAmount": "Resistance"
     },
+    "creature_template_movement": {
+      "InhabitCreatureID": "CreatureID",
+      "InhabitGround": "Ground",
+      "InhabitWater": "Swim",
+      "InhabitFlight": "Flight"
+    },
     "creature_template_addon": {
       "Mount": "mount",
       "Bytes1": "bytes1",
@@ -186,7 +192,7 @@
       "Quote": "description",
       "Class": "class",
       "ItemSubClass": "subclass",
-	  "Material": "Material",
+      "Material": "Material",
       "Quality": "Quality",
       "DisplayId": "displayid",
       "Binds": "bonding",
@@ -197,7 +203,7 @@
       "ValueBuy": "BuyPrice",
       "ValueSell": "SellPrice",
       "InventoryType": "InventoryType",
-	  "Sheath": "sheath",
+      "Sheath": "sheath",
       "Flags": "Flags",
       "FlagsExtra": "FlagsExtra",
       "BuyCount": "BuyCount",
@@ -286,12 +292,13 @@
     },
     "creature_questender": {
       "Quest.EntryId": "quest"
-    },	
+    },
     "creature_template_addon": {
       "Creature.Entry": "entry"
     },
     "creature_equip_template": {
       "Creature.Entry": "CreatureID"
     }
-  }
+  },
+  "CustomDefaultValues": null
 }
