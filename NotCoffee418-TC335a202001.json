@@ -3,10 +3,10 @@
   "EmulatorName": "TrinityCore",
   "GameVersion": "3.3.5a",
   "DatabaseVersion": "TDB 335a 2020-01-15",
-  "Revision": 9,
+  "Revision": 10,
   "Author": "NotCoffee418",
   "UpdateUrl": null,
-  "TestedBuild": 110,
+  "TestedBuild": 111,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
@@ -277,7 +277,6 @@
       "ExtendedCost": "ExtendedCost"
     }
   },
-  "LookupTool": {},
   "CustomFields": {
     "quest_template_addon": {
       "Quest.EntryId": "ID"
@@ -301,5 +300,14 @@
       "Creature.Entry": "CreatureID"
     }
   },
-  "CustomDefaultValues": null
+  "CustomDefaultValues": null,
+  "Definitions": {
+    "GameObjectTableName": "gameobject_template",
+    "GameObjectIdColumn": "entry",
+    "GameObjectDisplayIdColumn": "displayId",
+    "GameObjectNameColumn": "name",
+    "SpellTableName": "spell_dbc",
+    "SpellIdColumn": "Id",
+    "SpellNameColumn": "SpellName"
+  }
 }
