@@ -3,7 +3,7 @@
   "EmulatorName": "VMaNGOS",
   "GameVersion": "1.12.1",
   "DatabaseVersion": "Brotalnia Repack v17",
-  "Revision": 2,
+  "Revision": 3,
   "Author": "Titi#7251",
   "UpdateUrl": null,
   "TestedBuild": 113,
@@ -58,6 +58,10 @@
       "RegenHealth": "regeneration",
       "MechanicImmuneMask": "mechanic_immune_mask",
       "FlagsExtra": "flags_extra",
+      "Spell1": "spell_id1",
+      "Spell2": "spell_id2",
+      "Spell3": "spell_id3",
+      "Spell4": "spell_id4",
       "MinDmg": "dmg_min",
       "MaxDmg": "dmg_max",
       "MinRangedDmg": "ranged_dmg_min",
@@ -72,16 +76,6 @@
       "Bytes1": "bytes1",
       "Emote": "emote",
       "Auras": "auras"
-    },
-    "creature_spells": {
-      "Spell1": "spellId_1",
-      "Spell2": "spellId_2",
-      "Spell3": "spellId_3",
-      "Spell4": "spellId_4",
-      "Spell5": "spellId_5",
-      "Spell6": "spellId_6",
-      "Spell7": "spellId_7",
-      "Spell8": "spellId_8"
     },
     "creature_equip_template": {
       "Weapon1": "equipentry1",
@@ -259,9 +253,6 @@
       "Creature.Entry": "entry"
     },
     "creature_equip_template": {
-      "Creature.Entry": "entry"
-    },
-    "creature_spells": {
       "Creature.Entry": "entry"
     },
     "creature_questrelation": {
