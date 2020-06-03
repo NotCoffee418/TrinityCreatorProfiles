@@ -6,7 +6,7 @@
   "Revision": 3,
   "Author": "Titi#7251",
   "UpdateUrl": null,
-  "TestedBuild": 113,
+  "TestedBuild": 114,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
@@ -127,7 +127,7 @@
       "RequiredNpcOrGoCount3": "RequiredNpcOrGoCount3",
       "RequiredNpcOrGo4": "RequiredNpcOrGo4",
       "RequiredNpcOrGoCount4": "RequiredNpcOrGoCount4",
-      "RewardXpDifficulty": "RewXP",
+      "RewardXpRaw": "RewXP",
       "RewardMoney": "RewOrReqMoney",
       "RewardSpell": "RewSpell",
       "RewardItem1": "RewItemId1",
