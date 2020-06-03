@@ -3,10 +3,10 @@
   "EmulatorName": "Light's Hope",
   "GameVersion": "1.12.1",
   "DatabaseVersion": "Brotalnia Repack v16",
-  "Revision": 1,
+  "Revision": 2,
   "Author": "NotCoffee418",
   "UpdateUrl": null,
-  "TestedBuild": 112,
+  "TestedBuild": 114,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
@@ -300,6 +300,7 @@
     "GameObjectNameColumn": "name",
     "SpellTableName": "spell_dbc",
     "SpellIdColumn": "Id",
-    "SpellNameColumn": "SpellName"
+    "SpellNameColumn": "SpellName",
+    "RewardFactionOverrideModifier": "100"
   }
 }

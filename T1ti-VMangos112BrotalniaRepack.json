@@ -3,7 +3,7 @@
   "EmulatorName": "VMaNGOS",
   "GameVersion": "1.12.1",
   "DatabaseVersion": "Brotalnia Repack v17",
-  "Revision": 3,
+  "Revision": 4,
   "Author": "Titi#7251",
   "UpdateUrl": null,
   "TestedBuild": 114,
@@ -270,6 +270,7 @@
     "GameObjectNameColumn": "name",
     "SpellTableName": "spell_template",
     "SpellIdColumn": "entry",
-    "SpellNameColumn": "name"
+    "SpellNameColumn": "name",
+    "RewardFactionOverrideModifier": "1"
   }
 }

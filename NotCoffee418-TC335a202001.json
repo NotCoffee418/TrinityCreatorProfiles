@@ -3,10 +3,10 @@
   "EmulatorName": "TrinityCore",
   "GameVersion": "3.3.5a",
   "DatabaseVersion": "TDB 335a 2020-01-15",
-  "Revision": 10,
+  "Revision": 11,
   "Author": "NotCoffee418",
   "UpdateUrl": null,
-  "TestedBuild": 111,
+  "TestedBuild": 114,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
@@ -308,6 +308,7 @@
     "GameObjectNameColumn": "name",
     "SpellTableName": "spell_dbc",
     "SpellIdColumn": "Id",
-    "SpellNameColumn": "SpellName"
+    "SpellNameColumn": "SpellName",
+    "RewardFactionOverrideModifier": "100"
   }
 }
