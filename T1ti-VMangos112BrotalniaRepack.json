@@ -3,10 +3,10 @@
   "EmulatorName": "VMaNGOS",
   "GameVersion": "1.12.1",
   "DatabaseVersion": "Brotalnia Repack v17",
-  "Revision": 7,
+  "Revision": 8,
   "Author": "Titi#7251",
   "UpdateUrl": null,
-  "TestedBuild": 114,
+  "TestedBuild": 117,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
@@ -264,6 +264,9 @@
     },
     "creature_involvedrelation": {
       "Quest.EntryId": "quest"
+    },
+    "quest_template": {
+      "Quest.NextQuest": "NextQuestInChain"
     }
   },
   "CustomDefaultValues": null,
