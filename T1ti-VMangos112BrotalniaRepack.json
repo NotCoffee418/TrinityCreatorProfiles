@@ -3,7 +3,7 @@
   "EmulatorName": "VMaNGOS",
   "GameVersion": "1.12.1",
   "DatabaseVersion": "Brotalnia Repack v17",
-  "Revision": 8,
+  "Revision": 9,
   "Author": "Titi#7251",
   "UpdateUrl": null,
   "TestedBuild": 117,
@@ -232,7 +232,8 @@
       "StatType9": "stat_type9",
       "StatValue9": "stat_value9",
       "StatType10": "stat_type10",
-      "StatValue10": "stat_value10"
+      "StatValue10": "stat_value10",
+      "DisenchantLootId": "disenchant_id"
     }
   },
   "Loot": {
