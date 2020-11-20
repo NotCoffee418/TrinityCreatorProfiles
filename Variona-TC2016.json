@@ -3,10 +3,10 @@
   "EmulatorName": "TrinityCore",
   "GameVersion": "3.3.5a",
   "DatabaseVersion": "TDB 335a rev. a596478095d5",
-  "Revision": 4,
+  "Revision": 5,
   "Author": "Variona",
   "UpdateUrl": null,
-  "TestedBuild": 114,
+  "TestedBuild": 118,
   "Creature": {
     "creature_template": {
       "Entry": "entry",
@@ -257,7 +257,9 @@
       "StatValue9": "stat_value9",
       "StatType10": "stat_type10",
       "StatValue10": "stat_value10",
-      "StatsCount": "StatsCount"
+      "StatsCount": "StatsCount",
+      "RequiredDisenchantSkill": "RequiredDisenchantSkill",
+      "DisenchantLootId": "DisenchantID"
     }
   },
   "Loot": {
